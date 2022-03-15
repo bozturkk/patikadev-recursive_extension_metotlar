@@ -1,0 +1,15 @@
+/Users/cokoprens/Desktop/PatikaDevPratikler/recursive_extension_metotlar/bin/Debug/net6.0/recursive_extension_metotlar
+/Users/cokoprens/Desktop/PatikaDevPratikler/recursive_extension_metotlar/bin/Debug/net6.0/recursive_extension_metotlar.deps.json
+/Users/cokoprens/Desktop/PatikaDevPratikler/recursive_extension_metotlar/bin/Debug/net6.0/recursive_extension_metotlar.runtimeconfig.json
+/Users/cokoprens/Desktop/PatikaDevPratikler/recursive_extension_metotlar/bin/Debug/net6.0/recursive_extension_metotlar.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/recursive_extension_metotlar/bin/Debug/net6.0/recursive_extension_metotlar.pdb
+/Users/cokoprens/Desktop/PatikaDevPratikler/recursive_extension_metotlar/obj/Debug/net6.0/recursive_extension_metotlar.csproj.AssemblyReference.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/recursive_extension_metotlar/obj/Debug/net6.0/recursive_extension_metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cokoprens/Desktop/PatikaDevPratikler/recursive_extension_metotlar/obj/Debug/net6.0/recursive_extension_metotlar.AssemblyInfoInputs.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/recursive_extension_metotlar/obj/Debug/net6.0/recursive_extension_metotlar.AssemblyInfo.cs
+/Users/cokoprens/Desktop/PatikaDevPratikler/recursive_extension_metotlar/obj/Debug/net6.0/recursive_extension_metotlar.csproj.CoreCompileInputs.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/recursive_extension_metotlar/obj/Debug/net6.0/recursive_extension_metotlar.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/recursive_extension_metotlar/obj/Debug/net6.0/refint/recursive_extension_metotlar.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/recursive_extension_metotlar/obj/Debug/net6.0/recursive_extension_metotlar.pdb
+/Users/cokoprens/Desktop/PatikaDevPratikler/recursive_extension_metotlar/obj/Debug/net6.0/recursive_extension_metotlar.genruntimeconfig.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/recursive_extension_metotlar/obj/Debug/net6.0/ref/recursive_extension_metotlar.dll
